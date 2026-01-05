@@ -1,4 +1,4 @@
-hapter 3 – SQL Joins
+chapter 3 – SQL Joins
 🎯 Objective
 
 Learn how to combine multiple tables to display merged data using SQL joins.
